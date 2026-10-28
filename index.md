@@ -1,11 +1,11 @@
-# Privacy Policy for OpsQr
+# Privacy Policy for Ops Qr
 
 Last updated: October 22, 2026
 
-OpsQr ("the app") is a QR code generator and scanner. This policy explains how the app handles your information.
+Ops Qr ("the app") is a QR code generator and scanner. This policy explains how the app handles your information.
 
 ## Information we collect
-OpsQr does not collect, store on our servers, or share any personal information. The app does not require an account, and we do not run any servers that receive your data.
+Ops Qr does not collect, store on our servers, or share any personal information. The app does not require an account, and we do not run any servers that receive your data.
 
 ## Camera
 The app asks for camera permission only so it can scan QR codes in real time. Camera images are processed on your device and are never saved, uploaded, or shared.
@@ -26,4 +26,4 @@ Because your data stays on your device, it is protected by your device's own sec
 If this policy changes, the updated version will be posted at this URL with a new "Last updated" date.
 
 ## Contact
-If you have questions about this policy, contact: zilly@gmail.com
+If you have questions about this policy, contact: zilly756@gmail.com
